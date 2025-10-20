@@ -1,4 +1,4 @@
-# Retail
+# Real Time AI Checkout System YOLOv11 + FastAPI + MongoDB Integration
 
 ## What is included yolov8n model for now.
 - detection/ : YOLOV11 + OpenCV demo that detects items and maintains a cart overlay.
