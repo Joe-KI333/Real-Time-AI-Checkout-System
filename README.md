@@ -1,5 +1,5 @@
 # Real Time AI Checkout System YOLOv11 + FastAPI + MongoDB Integration
-<img width="1280" height="720" alt="Building a Real-Time AI Checkout System  YOLOv8 + FastAPI + MongoDB Integration" src="https://github.com/user-attachments/assets/2c0cc5a2-6f06-40b6-b406-a5c7d35acc92" />
+<img width="1280" height="720" alt="Building a Real-Time AI Checkout System  YOLOv8 + FastAPI + MongoDB Integration" src="https://youtu.be/jVxcgLO67Y8?si=y9imMCMyOUoYjxac" />
 
 ## 📺 YouTube Demo
 
