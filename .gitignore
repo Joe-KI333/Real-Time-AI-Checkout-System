@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pt
+.env
+.vscode/
+node_modules/
+.DS_Store
+/model/yolo11n.pt
