@@ -1,6 +1,6 @@
 # Retail
 
-## What is included
+## What is included yolov8n model for now.
 - detection/ : YOLOV11 + OpenCV demo that detects items and maintains a cart overlay.
 - backend/ : FastAPI server that receives detected items and stores them in MongoDB.
 - docs/payments_security.md : conceptual write-up for payments & security.
