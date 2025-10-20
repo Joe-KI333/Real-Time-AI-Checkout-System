@@ -1,5 +1,9 @@
 # Real Time AI Checkout System YOLOv11 + FastAPI + MongoDB Integration
+<img width="1280" height="720" alt="Building a Real-Time AI Checkout System  YOLOv8 + FastAPI + MongoDB Integration" src="https://github.com/user-attachments/assets/2c0cc5a2-6f06-40b6-b406-a5c7d35acc92" />
 
+## 📺 YouTube Demo
+
+For a better understanding, check out the YouTube demo here 👉🏿 [https://youtu.be/jVxcgLO67Y8?si=y9imMCMyOUoYjxac](https://youtu.be/jVxcgLO67Y8?si=y9imMCMyOUoYjxac)
 ## What is included.
 - detection/ : YOLOV11 + OpenCV demo that detects items and maintains a cart overlay.
 - backend/ : FastAPI server that receives detected items and stores them in MongoDB.
