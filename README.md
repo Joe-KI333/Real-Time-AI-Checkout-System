@@ -3,7 +3,7 @@
 
 ## 📺 YouTube Demo
 
-For a better understanding, check out the YouTube demo here 👉🏿 [https://youtu.be/jVxcgLO67Y8?si=y9imMCMyOUoYjxac](https://youtu.be/jVxcgLO67Y8?si=y9imMCMyOUoYjxac)
+For a better understanding, check out the YouTube demo here 👉🏿 [DEMO VIDEO](https://youtu.be/jVxcgLO67Y8?si=y9imMCMyOUoYjxac)
 ## What is included.
 - detection/ : YOLOV11 + OpenCV demo that detects items and maintains a cart overlay.
 - backend/ : FastAPI server that receives detected items and stores them in MongoDB.
